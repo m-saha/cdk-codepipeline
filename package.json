@@ -1,0 +1,25 @@
+{
+  "name": "cdkproject-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://m-saha: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@github.com/m-saha/cdkproject-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-saha/cdkproject-backend/issues"
+  },
+  "homepage": "https://github.com/m-saha/cdkproject-backend#readme",
+  "devDependencies": {
+    "@types/node": "^18.6.3",
+    "aws-cdk-lib": "^2.34.2",
+    "constructs": "^10.1.62"
+  }
+}
